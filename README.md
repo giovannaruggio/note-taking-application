@@ -23,4 +23,4 @@ Visit the application to get started! Type in your notes and add detailed descri
 - GitHub Repository
     - https://github.com/giovannaruggio/note-taking-application
 - Deployed App via Heroku
-    - https://github.com/giovannaruggio/note-taking-application
+    - https://pure-bayou-12143.herokuapp.com/notes
